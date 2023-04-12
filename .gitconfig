@@ -1,3 +1,5 @@
 [user]
 	email = hiruaseba26@gmail.com
 	name = Hirune
+[alias]
+	tree = log --graph --decorate --all --oneline

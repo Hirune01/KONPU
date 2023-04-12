@@ -55,4 +55,17 @@
       </metadata>
     </info>
   </bookmark>
+  <bookmark href="file:///alumnos/mcf23e/PROIEKTUAK/P1-23e/proba1.f95" added="2023-04-12T14:54:38Z" modified="2023-04-12T14:54:38Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-fortran"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2023-04-12T14:54:38Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
 </xbel>
