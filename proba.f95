@@ -1,4 +1,4 @@
 program r
-print*,"GIT aritu"
+print*,"GIT aritu proiektu lanean"
 
 end program r
